@@ -1,0 +1,13 @@
+.shop {
+    flex-basis: 16%;
+    border: 1px dotted blueviolet;
+    padding: 1em;
+    margin: 05em;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
